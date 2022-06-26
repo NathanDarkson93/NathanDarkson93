@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanDarkson984
-- 👀 I’m interested in ... vidya gaems
-- 🌱 I’m currently learning ... Haxe
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... vidya gaems, art making, all that cool shit.
+- 🌱 I’m currently learning ... Haxe, but I'm also doing various of things.
+- 💞️ I’m looking to collaborate on ... =y
 - 📫 How to reach me ... ~~@NDarkson984 on Twitter~~ it's now @nathanield984 on Twitter, NathanDarkson984#1514 on Discord, and such.
 
 <!---
